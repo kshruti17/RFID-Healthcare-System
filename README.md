@@ -32,5 +32,8 @@ To reduce manual errors in hospitals and improve efficiency using automated iden
 - Mobile app connection
 - Smart hospital system
 
-## 👩‍💻 Author
-Shruti Khatavkar
+## 👩‍💻 Team Members
+- Shruti Khatavkar  
+- Tanuja Moti 
+- Venkatesh Khatavkar
+- Darshan Kadapur
