@@ -20,7 +20,7 @@ To reduce manual errors in hospitals and improve efficiency using automated iden
 - Embedded C
 
 ## 📸 Project Images
-(We will add images next)
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/4e4b7b00-5737-4a50-aaa5-c00cab03190c" />
 
 ## 🎯 Key Learnings
 - RFID communication basics
